@@ -1,0 +1,13 @@
+p1 - cadastrar pessoa (usuário ou funcionário) ✅
+p2 - pesquisar pessoa (SE FOR FUNCIONARIO) ✅
+p3 - editar pessoa (COM LOGIN ) ✅
+p4 - excluir pessoa (COM LOGIN OU SE FOR FUNCIONARIO?)✅
+
+p5 - cadastrar livro (se for funcionario)✅
+p6 - listar livro/ ver livros em estoque✅
+p7 - excluir livro (funcionario) ✅
+p8 editar livro (funcionario)✅
+
+BONUS
+ - alugar livro - qtd em estoque diminui ✅
+ - devolver livro - qtd em estoque aumenta ✅
